@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Printer1",
+    "model_name": "Prusa i3 MK3S+",
+    "uuid": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "materials": [
+      {
+        "type": "PLA",
+        "colors": ["red", "blue", "green", "yellow"]
+      },
+      {
+        "type": "PETG",
+        "colors": ["black", "clear"]
+      }
+    ],
+    "current_print": {
+      "model_name": "benchy.gcode",
+      "progress": 75,
+      "estimated_completion": "2025-05-20T14:30:00Z"
+    },
+    "saved_models": [
+      "benchy.gcode",
+      "storage_box.gcode",
+      "mini_figure.gcode"
+    ],
+    "status": "printing"
+  },
+  {
+    "name": "Printer2",
+    "model_name": "Ender 3 V2",
+    "uuid": "f0e9d8c7-b6a5-4321-fedc-ba9876543210",
+    "materials": [
+      {
+        "type": "PLA",
+        "colors": ["white", "grey"]
+      }
+    ],
+    "current_print": null,
+    "saved_models": [
+      "calibration_cube.gcode",
+      "phone_stand.gcode"
+    ],
+    "status": "idle"
+  },
+  {
+    "name": "Printer3",
+    "model_name": "Photon Mono X",
+    "uuid": "1a2b3c4d-5e6f-7080-90a0-b0c0d0e0f0g0",
+    "materials": [
+      {
+        "type": "Resin",
+        "colors": ["grey", "clear"]
+      }
+    ],
+    "current_print": {
+      "model_name": "resin_miniature.gcode",
+      "progress": 100,
+      "estimated_completion": "2025-05-20T10:00:00Z"
+    },
+    "saved_models": [
+      "resin_miniature.gcode",
+      "jewelry_mold.gcode"
+    ],
+    "status": "completed"
+  },
+  {
+    "name": "Printer4",
+    "model_name": "LulzBot TAZ 6",
+    "uuid": "abcdef01-2345-6789-abcd-ef0123456789",
+    "materials": [
+      {
+        "type": "ABS",
+        "colors": ["black"]
+      },
+      {
+        "type": "Nylon",
+        "colors": ["natural"]
+      }
+    ],
+    "current_print": null,
+    "saved_models": [
+      "prototype_part.gcode"
+    ],
+    "status": "error"
+  }
+]

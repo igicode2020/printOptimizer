@@ -1,53 +1,25 @@
 [
   {
-    "file_id": "1a2b3c4d-e5f6-7890-1234-567890abcdef",
-    "model_name": "benchy.gcode",
+    "file_id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "model_name": "Prusa PLA Model",
     "material": "PLA",
-    "estimated_time": "02:30:00",
+    "estimated_time": "02:00:00",
     "compatible_printers": [
-      "Prusa i3 MK3S+",
-      "Creality Ender 3 V2"
+      "Prusa i3 MK3S+"
     ]
   },
   {
     "file_id": "f0e9d8c7-b6a5-4321-fedc-ba9876543210",
-    "model_name": "storage_box.gcode",
+    "model_name": "Ender PLA Model",
     "material": "PLA",
-    "estimated_time": "05:45:00",
+    "estimated_time": "01:30:00",
     "compatible_printers": [
-      "Prusa i3 MK3S+"
+      "Ender 3 V2"
     ]
   },
   {
-    "file_id": "c1d2e3f4-a5b6-9870-1234-567890abcdef",
-    "model_name": "mini_figure.gcode",
-    "material": "PETG",
-    "estimated_time": "01:15:00",
-    "compatible_printers": [
-      "Prusa i3 MK3S+"
-    ]
-  },
-  {
-    "file_id": "b6a5f0e9-d8c7-4321-fedc-ba9876543210",
-    "model_name": "calibration_cube.gcode",
-    "material": "PLA",
-    "estimated_time": "00:45:00",
-    "compatible_printers": [
-      "Creality Ender 3 V2"
-    ]
-  },
-  {
-     "file_id": "98765432-10ab-cdef-0123-456789abcdef",
-    "model_name": "phone_stand.gcode",
-    "material": "PLA",
-    "estimated_time": "01:00:00",
-    "compatible_printers": [
-      "Creality Ender 3 V2"
-    ]
-  },
-  {
-    "file_id": "23456789-abcdef-0123-4567-89abcdef01",
-    "model_name": "resin_miniature.gcode",
+    "file_id": "1a2b3c4d-5e6f-7080-90a0-b0c0d0e0f0g0",
+    "model_name": "Anycubic Photon Resin Model",
     "material": "Resin",
     "estimated_time": "03:00:00",
     "compatible_printers": [
@@ -56,18 +28,9 @@
   },
   {
     "file_id": "abcdef01-2345-6789-abcd-ef0123456789",
-    "model_name": "jewelry_mold.gcode",
-    "material": "Resin",
-    "estimated_time": "02:00:00",
-    "compatible_printers": [
-      "Anycubic Photon Mono X"
-    ]
-  },
-  {
-    "file_id": "01234567-89ab-cdef-0123-456789abcdef",
-    "model_name": "prototype_part.gcode",
-    "material": "Nylon",
-    "estimated_time": "06:30:00",
+    "model_name": "LulzBot ABS Model",
+    "material": "ABS",
+    "estimated_time": "01:00:00",
     "compatible_printers": [
       "LulzBot TAZ 6"
     ]
